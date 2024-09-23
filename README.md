@@ -33,8 +33,10 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 3. **Exécuter le projet**
 
-4. 
-
+4. **Ouvrir le dossier frontend et lancer l'application angular :**
+ ```bash
+   ng serve
+   ```
 
 ## Problèmes rencontrés
 
